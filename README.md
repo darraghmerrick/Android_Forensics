@@ -1,11 +1,11 @@
 # Android_Forensics
 A Collection of Perl Scripts for Android Forensics written for MSc Dissertation
 ![](https://github.com/darraghmerrick/Android_Forensics/blob/main/Android_Extract.png)
-The scripts included in this directory were created as part of a Dissertation for MSc in Forensic Computing
- and Cybercrime investigation.
+
+The scripts included in this directory were created as part of a Dissertation for MSc in Forensic Computing and Cybercrime investigation.
 The aim is contribute to the field of Android smartphone and tablet forensic investigation.
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
- without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
 The author will be in no way liable for any damages to devices or loss of data that may occur.
 
 These Scripts are intended to run on a Ubuntu OS.
