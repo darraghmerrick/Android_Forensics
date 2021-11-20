@@ -1,5 +1,6 @@
 # Android_Forensics
 A Collection of Perl Scripts for Android Forensics written for MSc Dissertation
+Read full dissertation [here](https://github.com/darraghmerrick/Android_Forensics/blob/main/27-07-2013-dmerrick-dissertation.pdf)
 ![](https://github.com/darraghmerrick/Android_Forensics/blob/main/Android_Extract.png)
 
 The scripts included in this directory were created as part of a Dissertation for MSc in Forensic Computing and Cybercrime investigation.
